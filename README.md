@@ -22,7 +22,7 @@ Or you can just copy/paste these `index.html` and `index.js` files.
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Mapbox Exampe</title>
+  <title>Mapbox Example</title>
 
   <!-- The Mapbox JS file to include -->
   <script src="https://api.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js"></script>
