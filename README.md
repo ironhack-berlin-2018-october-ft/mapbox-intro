@@ -1,5 +1,9 @@
 # Mapbox | How to use it in a simple front-end project?
 
+## Demo
+
+[Demo link](https://ironhack-berlin-2018-october-ft.github.io/mapbox-intro/)
+
 ## Get an API key
 
 To get a key, no need for credit card. You just need to signup in 20 seconds and you will have your key on your account page.
